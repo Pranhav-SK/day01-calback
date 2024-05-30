@@ -1,6 +1,6 @@
 body, html {
     height: 100%;
-    margin: 0;
+    margin: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,5 +11,5 @@ body, html {
 }
 
 .countdown {
-    font-size: 48px;
+    font-size: 55px;
 }
